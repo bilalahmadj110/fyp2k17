@@ -5,7 +5,7 @@ OpenCV stands for Open Source Computer Vision Library, it’s an open source ima
 This project was created for a university course. In this project I used OpenCV library to create a simple Android app with some image processing functionalities.   
 Version 3.4.7 of the library was used because the latest versions had some compatibility problems with Android.  
 
-![Screenshot](https://i.ibb.co/1R8gYW1/1.jpg)
+<!-- ![Screenshot](https://i.ibb.co/1R8gYW1/1.jpg)
 
 JavaCameraView were used as camera in the project. SetOnTouchListener was used to detect the motion on the camera view to switch between filters. Filtering operations were done over the Mat object returned by the camera. The returned mat object is n-dimensional dense array. 
 
@@ -19,3 +19,4 @@ The class has another functions like Canny(). Canny is an edge detection operato
 
 
 There is also applyColorMap() function which takes the first and the second parameters like the other two functions and a constant as the third parameter which specifies the color map to be applied. 
+ -->
